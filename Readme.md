@@ -31,7 +31,7 @@ http://localhost:1337/admin
 пароль: admin  
 
 
-Автор проекта: **Ерастов Алексей Сергеевич**  
-e-mail: a.erastov@gmail.com  
-Группа SkillFactory: FPW-36  
-Москва, сентябрь 2022г.
+Автор проекта: **Гончаренко Ольга Александровна**  
+e-mail: swetberry2004@bk.ru  
+Группа SkillFactory: PWS-1025 
+Калининград, октябрь 2023г.
